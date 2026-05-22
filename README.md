@@ -38,8 +38,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [Miguel Ángel Ronda Carracao](https://github.com/profemronda)
-* [Alicia Vega Moreno]
-* [Moisés Martínez Gutiérrez]
+* [Alicia Vega Moreno] (https://github.com/AVegMor)
+* [Moisés Martínez Gutiérrez] (https://github.com/MoiCPIFP)
 * [Javier Úbeda Vázquez]
 * [Carlos Alberto Sánchez Yúfera]
 * [José Emilio Sánchez García](https://github.com/Emilio-SG-ing)
