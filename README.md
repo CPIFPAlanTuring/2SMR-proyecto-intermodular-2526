@@ -90,7 +90,7 @@ suficiente a su presentación.
 - [ ] 10:35h **Proyecto 2: Empresa de reparación de Gafas VR**
 - [ ] 10:55h **Proyecto 3: Plataforma de Teleformación con Moodle y Python**
 - [ ] 11:45h **Proyecto 4: Sistema Domótico Básico con Raspberry Pi**
-- [ ] 11:55h **Proyecto 5: MINI-DATACENTER EN EL AULA**
+- [ ] 12:05h **Proyecto 5: MINI-DATACENTER EN EL AULA**
 
 ---
 ## Guía para la presentación - apartados de la presentación
