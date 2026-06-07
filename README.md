@@ -47,15 +47,12 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 ## Índice a los proyectos de cada alumno
 
 * **01: Automatización de procesos con IA** - 
-    - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://drive.google.com/drive/folders/148MN6lE5ut8qep41IzG_hT1D3J9Afh2O)
  
 * **02: Empresa de reparación de Gafas VR** - 
-    - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://github.com/GuillermoCortesVandeVelde/proyecto-reparacion-gafas-vr)
 
 * **03: Plataforma de Teleformación con Moodle y Python** - 
-    - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://github.com/MarioRuizMerino/proyecto-intermodular)
 
 * **04: Sistema Domótico Básico con Raspberry Pi** - 
@@ -63,8 +60,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Repositorio del proyecto](https://github.com/IsaiasIzquier2/conversayayo)
  
 * **05: MINI-DATACENTER EN EL AULA** - 
-    - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
+    - [Repositorio del proyecto](https://github.com/JuanDiegoMolina/Proyecto-Mini-Data-Center)
 
 
 ## 📝 Fechas a tener en cuenta
