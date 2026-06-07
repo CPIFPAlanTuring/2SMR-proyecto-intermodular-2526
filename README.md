@@ -38,8 +38,8 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [Miguel Ángel Ronda Carracao](https://github.com/profemronda)
-* [Alicia Vega Moreno] (https://github.com/AVegMor)
-* [Moisés Martínez Gutiérrez] (https://github.com/MoiCPIFP)
+* [Alicia Vega Moreno](https://github.com/AVegMor)
+* [Moisés Martínez Gutiérrez](https://github.com/MoiCPIFP)
 * [Javier Úbeda Vázquez]
 * [Carlos Alberto Sánchez Yúfera]
 * [José Emilio Sánchez García](https://github.com/Emilio-SG-ing)
@@ -48,28 +48,23 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 
 * **01: Automatización de procesos con IA** - 
     - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
-    - [Video final](https://)
+    - [Repositorio del proyecto](https://drive.google.com/drive/folders/148MN6lE5ut8qep41IzG_hT1D3J9Afh2O)
  
 * **02: Empresa de reparación de Gafas VR** - 
     - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
-    - [Video final](https://)
+    - [Repositorio del proyecto](https://github.com/GuillermoCortesVandeVelde/proyecto-reparacion-gafas-vr)
 
 * **03: Plataforma de Teleformación con Moodle y Python** - 
     - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
-    - [Video final](https://)
+    - [Repositorio del proyecto](https://github.com/MarioRuizMerino/proyecto-intermodular)
 
 * **04: Sistema Domótico Básico con Raspberry Pi** - 
-    - [Anteproyecto](https://)
-    - [Repositorio del proyecto](https://)
-    - [Video final](https://)
+    - [Anteproyecto](https://github.com/IsaiasIzquier2/conversayayo/blob/main/ANTEPROYECTO-GRUPO-4.pdf)
+    - [Repositorio del proyecto](https://github.com/IsaiasIzquier2/conversayayo)
  
 * **05: MINI-DATACENTER EN EL AULA** - 
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
-    - [Video final](https://)
 
 
 ## 📝 Fechas a tener en cuenta
